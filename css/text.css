@@ -1,0 +1,148 @@
+
+#ban
+{
+    background-color: black;
+    height: 20px;
+    width: 100%;
+}
+#center                                                   /*cenetr of the color (red)*/
+{
+    width: 70%;
+    margin: 0% auto;
+}
+#temp img      
+{
+    height: 85px;
+    background-color: white;
+
+}
+#temp
+{
+    background-color: white;                            /*relince logo bckground color (white)*/
+}
+#temp ul
+{
+    float: right;
+    margin-top: 31px;
+    scroll-behavior: smooth;
+}
+#temp ul li
+{
+    display: inline;
+    margin-left: 20px;
+}
+#temp ul li a
+{
+    color: gray;
+    text-decoration: none;
+}
+#banner img
+{
+    width:100%;
+    margin-bottom:20px;                                        
+    
+}
+#content1
+{
+    width: 32%;
+    height: 300px;
+    background-color:blue;
+    float: left;
+    margin-right:20px ;
+}
+#content2
+{
+    width: 32%;
+    height: 300px;
+    background-color:green;
+    float: left;
+}
+#content3
+{
+    width: 32%;
+    height: 300px;
+    background-color:yellow;
+    float: right;
+}
+#help1
+{
+    color: cornsilk;
+    padding: 25px;
+}
+.para1
+{
+    color: white;
+    margin-left: 20px;
+}
+#class1
+{
+    color: black;
+    margin: 20px;
+    text-decoration: none;
+    background-color: rgb(255, 251, 0);
+    padding: 6px;
+}
+#help2
+{
+    color: white;
+    padding:20px;
+}
+.para2
+{
+    color: white;
+    margin:20px ;
+}
+#help3
+{
+    padding:20px;
+    color: white;
+}
+.para3
+{
+    color: white;
+    margin: 20px;
+}
+#bottom1
+{
+    margin-top: 20px;
+    height:300px;
+    width: 66%;
+    float: left;
+}
+#bottom2
+{
+  
+    height: 300px;
+    width: 30%;
+    float: right;
+    margin-top: 20px;
+
+}
+.para4
+{
+    color:black;
+
+    margin: 20px;
+}
+#bot
+{
+    padding: 20px;
+}
+#class2
+{
+    text-decoration: none;
+    padding: 6px;
+    margin-left: 20px;
+    background-color: red;
+
+}
+#bottom2 img
+{   
+    height: 50%;
+    width: 100%;
+}
+#bottom1 a
+{
+    margin: 20px;
+}
+ 
